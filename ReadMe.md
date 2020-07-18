@@ -2,10 +2,10 @@
 
 ## Do the following things in the terminal to install relevant dependencies and run the project on PORT:8000
 
-- To setup the project 
+To setup the project 
 
 `npm install`
 
-- To run the project
+To run the project
 
 `npm start`
